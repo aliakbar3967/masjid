@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">masjid</string>
+    <string name="namaz_time">Namaz Time</string>
+    <string name="qibla">Qibla Direction</string>
+    <string name="tasbeeh">Tasbeeh Counter</string>
+    <dimen name="fab_margin_bottom">16dp</dimen>
+    <string name="nav_quran">Quran</string>
+    <string name="namaz">Namaz</string>
+    <string name="quran">Quran</string>
+    <string name="namaz_tariqa">Namaz Tariqa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

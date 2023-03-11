@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_namaz"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:title="@string/namaz"/>
+
+    <item
+        android:id="@+id/bottom_nav_quran"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="@string/quran"/>
+
+    <item
+        android:id="@+id/bottom_nav_qibla"
+        android:icon="@drawable/baseline_explore_24"
+        android:title="@string/qibla"/>
+
+    <item
+        android:id="@+id/bottom_nav_tariqa"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:title="@string/namaz_tariqa"/>
+
+    <item
+        android:id="@+id/bottom_nav_tasbeeh"
+        android:icon="@drawable/baseline_library_add_24"
+        android:title="@string/tasbeeh"/>
+
+</menu>
